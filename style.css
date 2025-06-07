@@ -59,6 +59,11 @@ body{
     margin: 0 auto;
 }
 
+.aviso{
+    font-family: "Cinzel Decorative", serif;
+    font-size: 25px;
+}
+
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
@@ -67,8 +72,8 @@ body{
 }
 
 .parametro-titulo{
-    font-family: var(--roboto-mono);
-    font-size: 28px;
+    font-family: "Cinzel Decorative", serif;
+    font-size: 40px;
 }
 
 .parametro-senha__titulo{
@@ -128,14 +133,14 @@ label{
 }
 .fraca{
     width: 25%;
-    background-color: #E71B32; 
+    background-color: #67a8f8; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #086dfa;
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: #0b13ff;
     width: 100%;
 }
 
